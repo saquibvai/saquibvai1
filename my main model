@@ -1,7 +1,5 @@
-"""
-Author: Rashed
-File: Network architecture for classifing cifer-10 data images
-"""
+Network architecture for classifing cifer-10 data images
+
 
 import keras, os
 from keras.layers import (Dense, Activation, 
